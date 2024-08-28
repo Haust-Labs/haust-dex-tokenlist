@@ -1,0 +1,55 @@
+{
+  "name": "Haust DEX Tokenlist",
+  "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/haust-dex-tokenlist/master/assets/chains/haust-devnet/0x0000000000000000000000000000000000000000/logo.png",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+    "type": {
+      "name": "tokenlist",
+      "description": "Official Haust DEX token list"
+    }
+  },
+  "timestamp": "2024-08-28T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 2079172751,
+      "address": "0xa56567D213E217Ed240ADFc100A402E0e3bdEa25",
+      "symbol": "USDT",
+      "name": "Tether",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/haust-dex-tokenlist/master/assets/chains/haust-devnet/0xa56567D213E217Ed240ADFc100A402E0e3bdEa25/logo.png"
+    },
+    {
+      "chainId": 2079172751,
+      "address": "0x309D7568FF7F296Cdb2e69C028eB6102400C1011",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/haust-dex-tokenlist/master/assets/chains/haust-devnet/0x309D7568FF7F296Cdb2e69C028eB6102400C1011/logo.png"
+    },
+    {
+      "chainId": 2079172751,
+      "address": "0xB69f3A80c4C779E4cBA94797B18f501283A3BB24",
+      "symbol": "WETH",
+      "name": "Ethereum",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/haust-dex-tokenlist/master/assets/chains/haust-devnet/0xB69f3A80c4C779E4cBA94797B18f501283A3BB24/logo.png"
+    },
+    {
+      "chainId": 2079172751,
+      "address": "0xBCAfBa9276fe27ed670C0192EA30a33D65b74747",
+      "symbol": "WBTC",
+      "name": "Bitcoin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/haust-dex-tokenlist/master/assets/chains/haust-devnet/0xBCAfBa9276fe27ed670C0192EA30a33D65b74747/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 2
+  }
+}
