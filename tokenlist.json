@@ -1,6 +1,6 @@
 {
   "name": "Haust DEX Tokenlist",
-  "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/haust-dex-tokenlist/master/assets/chains/haust-devnet/0x0000000000000000000000000000000000000000/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/haust-dex-tokenlist/master/assets/chains/haust-testnet/0x0000000000000000000000000000000000000000/logo.png",
   "keywords": [
     "audited",
     "verified",
@@ -15,41 +15,41 @@
   "timestamp": "2024-08-28T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 2079172751,
-      "address": "0xa56567D213E217Ed240ADFc100A402E0e3bdEa25",
+      "chainId": 1570754601,
+      "address": "0xB9FdFAD79cD511bf5aD103174B396818cfD88F46",
       "symbol": "USDT",
       "name": "Tether",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/haust-dex-tokenlist/master/assets/chains/haust-devnet/0xa56567D213E217Ed240ADFc100A402E0e3bdEa25/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/haust-dex-tokenlist/master/assets/chains/haust-testnet/0xB9FdFAD79cD511bf5aD103174B396818cfD88F46/logo.png"
     },
     {
-      "chainId": 2079172751,
-      "address": "0x309D7568FF7F296Cdb2e69C028eB6102400C1011",
+      "chainId": 1570754601,
+      "address": "0x94a8EFd7344Cd4eb8DDbCa213CB2BC4Ee9Fa5d91",
       "symbol": "USDC",
       "name": "USD Coin",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/haust-dex-tokenlist/master/assets/chains/haust-devnet/0x309D7568FF7F296Cdb2e69C028eB6102400C1011/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/haust-dex-tokenlist/master/assets/chains/haust-testnet/0x94a8EFd7344Cd4eb8DDbCa213CB2BC4Ee9Fa5d91/logo.png"
     },
     {
-      "chainId": 2079172751,
-      "address": "0xB69f3A80c4C779E4cBA94797B18f501283A3BB24",
+      "chainId": 1570754601,
+      "address": "0x845e4145F7de2822d16FE233Ecd0181c61f1d65F",
       "symbol": "WETH",
-      "name": "Ethereum",
+      "name": "Wrapped ETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/haust-dex-tokenlist/master/assets/chains/haust-devnet/0xB69f3A80c4C779E4cBA94797B18f501283A3BB24/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/haust-dex-tokenlist/master/assets/chains/haust-testnet/0x845e4145F7de2822d16FE233Ecd0181c61f1d65F/logo.png"
     },
     {
-      "chainId": 2079172751,
-      "address": "0xBCAfBa9276fe27ed670C0192EA30a33D65b74747",
+      "chainId": 1570754601,
+      "address": "0xA8ecBe9F78f9084C3978949c63EeB0091762A0f9",
       "symbol": "WBTC",
-      "name": "Bitcoin",
+      "name": "Wrapped Bitcoin",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/haust-dex-tokenlist/master/assets/chains/haust-devnet/0xBCAfBa9276fe27ed670C0192EA30a33D65b74747/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Rock-n-Block/haust-dex-tokenlist/master/assets/chains/haust-testnet/0xA8ecBe9F78f9084C3978949c63EeB0091762A0f9/logo.png"
     }
   ],
   "version": {
-    "major": 1,
-    "minor": 1,
-    "patch": 2
+    "major": 2,
+    "minor": 2,
+    "patch": 3
   }
 }
