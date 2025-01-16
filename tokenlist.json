@@ -34,7 +34,7 @@
       "chainId": 1570754601,
       "address": "0x1a1aF9C78704D3a0Ab9e031C92E7bd808711A582",
       "symbol": "WETH",
-      "name": "Wrapped Ether",
+      "name": "Ethereum",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/master/assets/chains/haust-testnet/0x1a1aF9C78704D3a0Ab9e031C92E7bd808711A582/logo.png"
     },
@@ -42,7 +42,7 @@
       "chainId": 1570754601,
       "address": "0x25527108071D56bCBe025711CD93eE1E364b03ea",
       "symbol": "WBTC",
-      "name": "Wrapped BTC",
+      "name": "Bitcoin",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/master/assets/chains/haust-testnet/0x25527108071D56bCBe025711CD93eE1E364b03ea/logo.png"
     },
