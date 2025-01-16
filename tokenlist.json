@@ -51,7 +51,7 @@
       "address": "0x314e5d40a123F4Efdb096bB716767C905A7DcA97",
       "symbol": "WHAUST",
       "name": "Wrapped HAUST",
-      "decimals": 8,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/master/assets/chains/haust-testnet/0x314e5d40a123F4Efdb096bB716767C905A7DcA97/logo.png"
     }
   ],
