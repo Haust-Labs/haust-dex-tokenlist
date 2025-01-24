@@ -15,7 +15,7 @@
   "timestamp": "2024-08-28T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 1570754601,
+      "chainId": 1523903251,
       "address": "0x793c22920F95758603f8FBe14f61dC674CEe433f",
       "symbol": "USDT",
       "name": "Tether",
@@ -23,7 +23,7 @@
       "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/test/assets/chains/haust-testnet/0x793c22920F95758603f8FBe14f61dC674CEe433f/logo.png"
     },
     {
-      "chainId": 1570754601,
+      "chainId": 1523903251,
       "address": "0x8BAa0E9edaf3DA44Fe288466c39fbEC71abC36c0",
       "symbol": "USDC",
       "name": "USD Coin",
@@ -31,7 +31,7 @@
       "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/test/assets/chains/haust-testnet/0x8BAa0E9edaf3DA44Fe288466c39fbEC71abC36c0/logo.png"
     },
     {
-      "chainId": 1570754601,
+      "chainId": 1523903251,
       "address": "0x48C3C36CE1DF7d5852FB4cda746015a9971A882E",
       "symbol": "WETH",
       "name": "Ethereum",
@@ -39,7 +39,7 @@
       "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/test/assets/chains/haust-testnet/0x48C3C36CE1DF7d5852FB4cda746015a9971A882E/logo.png"
     },
     {
-      "chainId": 1570754601,
+      "chainId": 1523903251,
       "address": "0xeF16811d63E3551c424A3880386a0148B0Fa98a3",
       "symbol": "WBTC",
       "name": "Bitcoin",
@@ -47,7 +47,7 @@
       "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/test/assets/chains/haust-testnet/0xeF16811d63E3551c424A3880386a0148B0Fa98a3/logo.png"
     },
     {
-      "chainId": 1570754601,
+      "chainId": 1523903251,
       "address": "0x6C25C1Cb4b8677982791328471be1bFB187687c1",
       "symbol": "WHAUST",
       "name": "Wrapped Haust",
