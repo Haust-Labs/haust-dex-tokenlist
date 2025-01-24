@@ -16,7 +16,7 @@
   "tokens": [
     {
       "chainId": 1570754601,
-      "address": "0xf7FDb9d99Ff104dB82cc98DFd43602CCA4bB7c90",
+      "address": "0x793c22920F95758603f8FBe14f61dC674CEe433f",
       "symbol": "USDT",
       "name": "Tether",
       "decimals": 6,
@@ -24,7 +24,7 @@
     },
     {
       "chainId": 1570754601,
-      "address": "0xC33299bb1Beb4DD431A4CC8f4174395F0d1d29E7",
+      "address": "0x8BAa0E9edaf3DA44Fe288466c39fbEC71abC36c0",
       "symbol": "USDC",
       "name": "USD Coin",
       "decimals": 6,
@@ -32,7 +32,7 @@
     },
     {
       "chainId": 1570754601,
-      "address": "0x1a1aF9C78704D3a0Ab9e031C92E7bd808711A582",
+      "address": "0x48C3C36CE1DF7d5852FB4cda746015a9971A882E",
       "symbol": "WETH",
       "name": "Ethereum",
       "decimals": 18,
@@ -40,7 +40,7 @@
     },
     {
       "chainId": 1570754601,
-      "address": "0x25527108071D56bCBe025711CD93eE1E364b03ea",
+      "address": "0xeF16811d63E3551c424A3880386a0148B0Fa98a3",
       "symbol": "WBTC",
       "name": "Bitcoin",
       "decimals": 8,
@@ -48,7 +48,7 @@
     },
     {
       "chainId": 1570754601,
-      "address": "0x314e5d40a123F4Efdb096bB716767C905A7DcA97",
+      "address": "0x6C25C1Cb4b8677982791328471be1bFB187687c1",
       "symbol": "WHAUST",
       "name": "Wrapped Haust",
       "decimals": 18,
