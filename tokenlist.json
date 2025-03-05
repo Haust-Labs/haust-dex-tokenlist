@@ -36,7 +36,7 @@
       "symbol": "WETH",
       "name": "Ethereum",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/master/assets/chains/haust-testnet/0x48C3C36CE1DF7d5852FB4cda746015a9971A882E/eth.svg"
+      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/test/assets/chains/haust-testnet/0x48C3C36CE1DF7d5852FB4cda746015a9971A882E/eth.svg"
     },
     {
       "chainId": 1523903251,
