@@ -1,6 +1,6 @@
 {
   "name": "Haust DEX Tokenlist",
-  "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/master/assets/chains/haust-testnet/0x0000000000000000000000000000000000000000/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/master/assets/chains/haust-testnet/0x0000000000000000000000000000000000000000/haust.svg",
   "keywords": [
     "audited",
     "verified",
@@ -20,7 +20,7 @@
       "symbol": "USDT",
       "name": "Tether",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/master/assets/chains/haust-testnet/0x87054392461F52a513d83EF2e06af50f4e2F6614/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/master/assets/chains/haust-testnet/0x87054392461F52a513d83EF2e06af50f4e2F6614/usdt.svg"
     },
     {
       "chainId": 1523903251,
@@ -28,7 +28,7 @@
       "symbol": "USDC",
       "name": "USD Coin",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/master/assets/chains/haust-testnet/0x1AfB500AFfBBc8a7FC8aB0f5C4D06c59AC87B111/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/master/assets/chains/haust-testnet/0x1AfB500AFfBBc8a7FC8aB0f5C4D06c59AC87B111/usdc.svg"
     },
     {
       "chainId": 1523903251,
@@ -36,7 +36,7 @@
       "symbol": "WETH",
       "name": "Ethereum",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/test/assets/chains/haust-testnet/0x48C3C36CE1DF7d5852FB4cda746015a9971A882E/eth.svg"
+      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/master/assets/chains/haust-testnet/0x48C3C36CE1DF7d5852FB4cda746015a9971A882E/eth.svg"
     },
     {
       "chainId": 1523903251,
@@ -44,7 +44,7 @@
       "symbol": "WBTC",
       "name": "Bitcoin",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/master/assets/chains/haust-testnet/0x595BC82909f2311Cf19E865bc82e7930b103540C/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/master/assets/chains/haust-testnet/0x595BC82909f2311Cf19E865bc82e7930b103540C/wbtc.svg"
     },
     {
       "chainId": 1523903251,
@@ -52,7 +52,7 @@
       "symbol": "WHAUST",
       "name": "Wrapped Haust",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/master/assets/chains/haust-testnet/0x6C25C1Cb4b8677982791328471be1bFB187687c1/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/master/assets/chains/haust-testnet/0x6C25C1Cb4b8677982791328471be1bFB187687c1/whaust.svg"
     }
   ],
   "version": {
