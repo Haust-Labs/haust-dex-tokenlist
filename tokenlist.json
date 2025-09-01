@@ -1,6 +1,6 @@
 {
   "name": "Haust DEX Tokenlist",
-  "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/test/assets/chains/haust-testnet/0x0000000000000000000000000000000000000000/haust.svg",
+  "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/devnet/assets/chains/haust-devnet/0x0000000000000000000000000000000000000000/haust.svg",
   "keywords": [
     "audited",
     "verified",
@@ -15,52 +15,44 @@
   "timestamp": "2024-08-28T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 1523903251,
-      "address": "0x87054392461F52a513d83EF2e06af50f4e2F6614",
+      "chainId": 1008818835,
+      "address": "0xb9882bc4f209d6bb26e971874779aa7447f82aa7",
       "symbol": "USDT",
       "name": "Tether",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/test/assets/chains/haust-testnet/0x87054392461F52a513d83EF2e06af50f4e2F6614/usdt.svg"
+      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/devnet/assets/chains/haust-devnet/0xb9882bc4f209d6bb26e971874779aa7447f82aa7/usdt.svg"
     },
     {
-      "chainId": 1523903251,
-      "address": "0x1AfB500AFfBBc8a7FC8aB0f5C4D06c59AC87B111",
+      "chainId": 1008818835,
+      "address": "0xad73118d8a179c17a2653e7342977e82e54cc4a7",
       "symbol": "USDC",
       "name": "USD Coin",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/test/assets/chains/haust-testnet/0x1AfB500AFfBBc8a7FC8aB0f5C4D06c59AC87B111/usdc.svg"
+      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/devnet/assets/chains/haust-devnet/0xad73118d8a179c17a2653e7342977e82e54cc4a7/usdc.svg"
     },
     {
-      "chainId": 1523903251,
-      "address": "0x48C3C36CE1DF7d5852FB4cda746015a9971A882E",
+      "chainId": 1008818835,
+      "address": "0xe6a3136f060cc22a866abee3e3725311a600f3ee",
       "symbol": "WETH",
       "name": "Ethereum",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/test/assets/chains/haust-testnet/0x48C3C36CE1DF7d5852FB4cda746015a9971A882E/eth.svg"
+      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/devnet/assets/chains/haust-devnet/0xe6a3136f060cc22a866abee3e3725311a600f3ee/eth.svg"
     },
     {
-      "chainId": 1523903251,
-      "address": "0x595BC82909f2311Cf19E865bc82e7930b103540C",
+      "chainId": 1008818835,
+      "address": "0x75b69949d11013856e60b7386c28163daed1de81",
       "symbol": "WBTC",
       "name": "Bitcoin",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/test/assets/chains/haust-testnet/0x595BC82909f2311Cf19E865bc82e7930b103540C/wbtc.svg"
+      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/devnet/assets/chains/haust-devnet/0x75b69949d11013856e60b7386c28163daed1de81/wbtc.svg"
     },
     {
-      "chainId": 1523903251,
-      "address": "0x6C25C1Cb4b8677982791328471be1bFB187687c1",
+      "chainId": 1008818835,
+      "address": "0x2c990daddaf3b760443b512da9f001f721951438",
       "symbol": "WHAUST",
       "name": "Wrapped Haust",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/test/assets/chains/haust-testnet/0x6C25C1Cb4b8677982791328471be1bFB187687c1/whaust.svg"
-    },
-    {
-      "chainId": 1523903251,
-      "address": "0x07607F6cccd147660cC2D78EA2c6fc8b9d918601",
-      "symbol": "MYR",
-      "name": "Malaysian ringgit",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/test/assets/chains/haust-testnet/0x07607F6cccd147660cC2D78EA2c6fc8b9d918601/myr.svg"
+      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/devnet/assets/chains/haust-devnet/0x2c990daddaf3b760443b512da9f001f721951438/whaust.svg"
     }
   ],
   "version": {
