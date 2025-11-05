@@ -32,11 +32,11 @@
     },
     {
       "chainId": 1008818835,
-      "address": "0xe6a3136f060cc22a866abee3e3725311a600f3ee",
+      "address": "0x1a1af9c78704d3a0ab9e031c92e7bd808711a582",
       "symbol": "WETH",
       "name": "Ethereum",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/devnet/assets/chains/haust-devnet/0xe6a3136f060cc22a866abee3e3725311a600f3ee/eth.svg"
+      "logoURI": "https://raw.githubusercontent.com/Haust-Labs/haust-dex-tokenlist/devnet/assets/chains/haust-devnet/0x1a1af9c78704d3a0ab9e031c92e7bd808711a582/eth.svg"
     },
     {
       "chainId": 1008818835,
